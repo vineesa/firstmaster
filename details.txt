@@ -1,0 +1,14 @@
+create local repository-call as local stage 
+take the status of the local repository
+create a file at local repository
+add a file or files to local repository
+to perfrom modifications on a file
+
+
+
+
+create a global repository at github
+configure local stage to global stage 
+if permission required-grant the access
+creating origin for pushing data from local stage to global stage
+
